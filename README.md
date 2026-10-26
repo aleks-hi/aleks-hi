@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Oleksandra 👋
 
-<!--
-**aleks-hi/aleks-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Campaign Manager and Team Lead. I build outbound systems for B2B teams: finding the right accounts, enriching and checking the data, writing messages that get replies, and keeping the CRM current automatically.
 
-Here are some ideas to get you started:
+**What I work with**
+- **Claude:** skills and agents that research, write and QA at scale
+- **Clay:** search, enrichment and AI research columns
+- **HubSpot, MailerLite, Lusha, Google Sheets:** CRM, sequences, data and reporting
+- **LinkedIn Sales Navigator, Octopus CRM, SalesQL:** LinkedIn and email prospecting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+- Campaign management and team lead in B2B lead generation and outbound (since 2024)
+- Content management for a software company (2022–2024)
+- Assistant professor, 7 years: research, teaching, and turning complex material into clear structure
+- International relations manager, 6 years: cross-border communication and partnerships
+- Ph.D. in Political Science, Yuriy Fedkovych Chernivtsi National University
+
+**Languages:** English (fluent), Ukrainian and Russian (native), Bulgarian (conversational), German (basic)
+
+📂 Start here: [GTM portfolio](https://github.com/aleks-hi/gtm-portfolio)
